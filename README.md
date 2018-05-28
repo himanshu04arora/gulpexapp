@@ -11,7 +11,7 @@ gulp-concat
 gulp-uglify
 gulp-sass
 
-## Install Dependencies
+## Install Dependencies Directly
 ```bash
 npm install
 ```
