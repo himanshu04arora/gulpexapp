@@ -22,6 +22,6 @@ gulp
 ```
 
 ## Watch all tasks/files
-```bash-HimanshuTes1
+```bash-master
 gulp watch
 ```
