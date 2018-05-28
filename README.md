@@ -11,7 +11,9 @@ gulp-concat
 gulp-uglify
 gulp-sass
 
+
 ## Install Dependencies HIMASdghh
+
 ```bash
 npm install
 ```
@@ -22,6 +24,8 @@ gulp
 ```
 
 ## Watch all tasks/files
+
 ```bash-HimanshuTest2
+
 gulp watch
 ```

@@ -3,7 +3,7 @@ const imagemin = require('gulp-imagemin');
 const uglify = require('gulp-uglify');
 const sass = require('gulp-sass');
 const concat = require('gulp-concat');
-
+//Comment2
 /*
   -- TOP LEVEL FUNCTIONS --
   gulp.task - Define tasks
